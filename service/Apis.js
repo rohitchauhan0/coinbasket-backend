@@ -1,11 +1,11 @@
 // const BASE_URL = "http://192.168.1.19:5001/api/v1"
 // const BASE_URL = "http://192.168.1.33:5001/api/v1"
-const BASE_URL = "http://192.0.0.2:5001/api/v1"
+// const BASE_URL = "http://192.0.0.2:5001/api/v1"
 
 
 // const BASE_URL = "http://192.168.1.218:5001/api/v1"
 // const BASE_URL = "http:/api.coinbasket.in/api/v1"
-// const BASE_URL = "https://coin-basketapp.onrender.com/api/v1"
+const BASE_URL = "https://coinbasket-backend.onrender.com/api/v1"
 
 
 export const AuthEndPoint = {
